@@ -16,3 +16,9 @@ Git global setup:
 	
 Cache git HTTPS credentials:
 	https://help.github.com/articles/caching-your-github-password-in-git/
+
+# To Play
+
+* Download Repo
+* Open the solution file (.sln) in the RiskVisualStudioProject folder in Visual Studio
+* Once opened, CTRL-B to build and execute the game.
